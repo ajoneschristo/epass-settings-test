@@ -1,6 +1,7 @@
 {
   "sheetUrl": "https://docs.google.com/spreadsheets/d/1DeB1yLM4IJ4um7gbx7nc5_3dks2dR9gZVZqOx1a8zb4",
   "sheetName": "Rake and Road Despatch",
+  "sheetRange": "I6:O28",
   "scriptUrl": "https://script.google.com/macros/s/AKfycbzwJGEYgCOcQDrvNnqE7iQp2-XhfsSReA8ARhiI1HVMMRhbc0KuTIkrO55Hql8EZ5K9Eg/exec",
   "slots": [
     {
