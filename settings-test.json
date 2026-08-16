@@ -297,7 +297,7 @@
           {
             "label": "Talcher Total",
             "colCodes": "5046,5075,5077",
-            "isSubtotal": true
+            "isSubtotal": false
           }
         ]
       },
