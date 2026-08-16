@@ -174,9 +174,14 @@
   ],
   "powerReport": {
     "historyPath": "roadpower-history-test.json",
+    "r1Daywise": true,
+    "r2Daywise": true,
     "parties": [
       {
         "code": "1000000060",
+        "codes": [
+          "1000000060"
+        ],
         "name": "DURGAPUR STEEL THERMAL POWER",
         "power": true,
         "r1": true,
@@ -184,6 +189,9 @@
       },
       {
         "code": "1000000075",
+        "codes": [
+          "1000000075"
+        ],
         "name": "DR. NARLA TATA RAO POWER STATION",
         "power": true,
         "r1": true,
@@ -218,6 +226,9 @@
       },
       {
         "code": "1000000087",
+        "codes": [
+          "1000000087"
+        ],
         "name": "KORADI THERMAL POWER STATION",
         "power": true,
         "r1": true,
@@ -225,6 +236,9 @@
       },
       {
         "code": "1000000088",
+        "codes": [
+          "1000000088"
+        ],
         "name": "KHAPERKHEDA THERMAL POWER STATION",
         "power": true,
         "r1": true,
@@ -232,6 +246,9 @@
       },
       {
         "code": "1000000090",
+        "codes": [
+          "1000000090"
+        ],
         "name": "APPDCL - SRI DAMODARAM SANJEEVAIAH",
         "power": true,
         "r1": true,
@@ -266,20 +283,19 @@
       },
       {
         "code": "2000000047",
+        "codes": [
+          "2000000047"
+        ],
         "name": "JSW ENERGY LTD",
         "power": true,
         "r1": false,
         "r2": false
       },
       {
-        "code": "2000000106",
-        "name": "ADANI POWER LIMITED",
-        "power": true,
-        "r1": true,
-        "r2": false
-      },
-      {
         "code": "2000000110",
+        "codes": [
+          "2000000110"
+        ],
         "name": "CESC LTD",
         "power": true,
         "r1": true,
@@ -287,6 +303,9 @@
       },
       {
         "code": "2000000429",
+        "codes": [
+          "2000000429"
+        ],
         "name": "JINDAL INDIA POWER LIMITED",
         "power": true,
         "r1": true,
@@ -294,6 +313,9 @@
       },
       {
         "code": "2000000456",
+        "codes": [
+          "2000000456"
+        ],
         "name": "OPG POWER GENERATION PVT LTD",
         "power": true,
         "r1": true,
@@ -301,6 +323,9 @@
       },
       {
         "code": "2000000547",
+        "codes": [
+          "2000000547"
+        ],
         "name": "JINDAL POWER LTD",
         "power": true,
         "r1": true,
@@ -308,6 +333,9 @@
       },
       {
         "code": "2000000630",
+        "codes": [
+          "2000000630"
+        ],
         "name": "DB POWER LTD",
         "power": true,
         "r1": true,
@@ -315,6 +343,9 @@
       },
       {
         "code": "2000000672",
+        "codes": [
+          "2000000672"
+        ],
         "name": "GMR KAMALANGA ENERGY LTD",
         "power": true,
         "r1": true,
@@ -322,6 +353,9 @@
       },
       {
         "code": "2000000679",
+        "codes": [
+          "2000000679"
+        ],
         "name": "JSW MAHANADI POWER COMPANY LIMITED",
         "power": true,
         "r1": true,
@@ -329,6 +363,9 @@
       },
       {
         "code": "2000000690",
+        "codes": [
+          "2000000690"
+        ],
         "name": "R K M POWERGEN PRIVATE LIMITED",
         "power": true,
         "r1": true,
@@ -336,6 +373,9 @@
       },
       {
         "code": "2000000756",
+        "codes": [
+          "2000000756"
+        ],
         "name": "SKS POWER GENERATION",
         "power": true,
         "r1": true,
@@ -343,6 +383,9 @@
       },
       {
         "code": "2000003800",
+        "codes": [
+          "2000003800"
+        ],
         "name": "IND SYNERGY LIMITED",
         "power": true,
         "r1": false,
@@ -350,6 +393,9 @@
       },
       {
         "code": "2000005075",
+        "codes": [
+          "2000005075"
+        ],
         "name": "NAVA BHARAT ENERGY INDIA LIMITED",
         "power": true,
         "r1": true,
@@ -357,6 +403,9 @@
       },
       {
         "code": "2000005150",
+        "codes": [
+          "2000005150"
+        ],
         "name": "MAADURGA THERMAL POWER COMPANY LIMI",
         "power": true,
         "r1": true,
@@ -364,6 +413,12 @@
       },
       {
         "code": "2000005225",
+        "codes": [
+          "2000005225",
+          "2000005231",
+          "2000000106",
+          "2000005453"
+        ],
         "name": "ADANI POWER LIMITED",
         "power": true,
         "r1": true,
@@ -371,6 +426,9 @@
       },
       {
         "code": "2000005226",
+        "codes": [
+          "2000005226"
+        ],
         "name": "NAVA LIMITED (UNIT-3)",
         "power": true,
         "r1": true,
@@ -378,48 +436,40 @@
       },
       {
         "code": "2000005230",
+        "codes": [
+          "2000005230"
+        ],
         "name": "JSW ENERGY (UTKAL) LIMITED",
         "power": true,
         "r1": true,
         "r2": false
       },
       {
-        "code": "2000005231",
-        "name": "ADANI POWER LIMITED",
-        "power": true,
-        "r1": true,
-        "r2": false
-      },
-      {
         "code": "2000005451",
+        "codes": [
+          "2000005451",
+          "2000005465"
+        ],
         "name": "MOXIE POWER GENERATION LIMITED",
-        "power": true,
-        "r1": true,
-        "r2": false
-      },
-      {
-        "code": "2000005453",
-        "name": "ADANI POWER LIMITED",
         "power": true,
         "r1": true,
         "r2": false
       },
       {
         "code": "2000005457",
+        "codes": [
+          "2000005457"
+        ],
         "name": "SARDA ENERGY & MINERALS LIMITED",
         "power": true,
         "r1": true,
         "r2": false
       },
       {
-        "code": "2000005465",
-        "name": "MOXIE POWER GENERATION LIMITED",
-        "power": true,
-        "r1": true,
-        "r2": false
-      },
-      {
         "code": "2000005483",
+        "codes": [
+          "2000005483"
+        ],
         "name": "JINDAL POWER LIMITED",
         "power": true,
         "r1": true,
@@ -427,6 +477,9 @@
       },
       {
         "code": "3000004310",
+        "codes": [
+          "3000004310"
+        ],
         "name": "TRN ENERGY PRIVATE LIMITED",
         "power": true,
         "r1": true,
