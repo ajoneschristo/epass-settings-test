@@ -176,6 +176,32 @@
     "historyPath": "roadpower-history-test.json",
     "r1Daywise": true,
     "r2Daywise": true,
+    "r2Months": [
+      "2026-07"
+    ],
+    "html": {
+      "mode": "interactive",
+      "tables": true,
+      "months": [
+        "2026-08",
+        "2026-07",
+        "2026-06",
+        "2026-05",
+        "2026-04"
+      ],
+      "charts": {
+        "kpi": true,
+        "trend": true,
+        "cumulative": true,
+        "ranking": true,
+        "deviation": true,
+        "customer": true,
+        "heatmap": true,
+        "monthly": true,
+        "split": true,
+        "stacked": true
+      }
+    },
     "parties": [
       {
         "code": "1000000060",
@@ -485,9 +511,6 @@
         "r1": true,
         "r2": false
       }
-    ],
-    "r2Months": [
-      "2026-07"
     ]
   }
 }
