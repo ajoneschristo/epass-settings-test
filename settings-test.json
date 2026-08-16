@@ -240,7 +240,7 @@
           {
             "label": "Balram OCP",
             "colCodes": "5055",
-            "isSubtotal": false
+            "isSubtotal": true
           }
         ]
       },
