@@ -200,27 +200,27 @@
           {
             "label": "Ananta OCP",
             "colCodes": "5046",
-            "isSubtotal": true
+            "isSubtotal": false
           },
           {
             "label": "Jagannath OCP",
             "colCodes": "5075",
-            "isSubtotal": true
+            "isSubtotal": false
           },
           {
             "label": "Bhubaneswari OCP",
             "colCodes": "5077",
-            "isSubtotal": true
+            "isSubtotal": false
           },
           {
             "label": "Bharatpur OCP",
             "colCodes": "5044",
-            "isSubtotal": true
+            "isSubtotal": false
           },
           {
             "label": "Balram OCP",
             "colCodes": "5055",
-            "isSubtotal": true
+            "isSubtotal": false
           }
         ]
       },
@@ -257,22 +257,22 @@
           {
             "label": "Ananta OCP",
             "colCodes": "5046",
-            "isSubtotal": true
+            "isSubtotal": false
           },
           {
             "label": "Jagannath OCP",
             "colCodes": "5075",
-            "isSubtotal": true
+            "isSubtotal": false
           },
           {
             "label": "Bhubaneswari OCP",
             "colCodes": "5077",
-            "isSubtotal": true
+            "isSubtotal": false
           },
           {
             "label": "Integrated LBL OCP",
             "colCodes": "5158",
-            "isSubtotal": true
+            "isSubtotal": false
           },
           {
             "label": "Talcher Total",
@@ -442,7 +442,34 @@
         "name": "JSW ENERGY (UTKAL) LIMITED",
         "power": true,
         "r1": true,
-        "r2": false
+        "r2": true,
+        "cols": [
+          {
+            "label": "Integrated LBL OCP",
+            "colCodes": "5158",
+            "isSubtotal": false
+          },
+          {
+            "label": "Samleswari OCP",
+            "colCodes": "5065",
+            "isSubtotal": false
+          },
+          {
+            "label": "Garjanbahal OCP",
+            "colCodes": "5035",
+            "isSubtotal": false
+          },
+          {
+            "label": "Kulda OCP",
+            "colCodes": "5026",
+            "isSubtotal": false
+          },
+          {
+            "label": "Lajkura OCP",
+            "colCodes": "5064",
+            "isSubtotal": false
+          }
+        ]
       },
       {
         "code": "2000005451",
