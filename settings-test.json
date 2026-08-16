@@ -221,11 +221,6 @@
             "label": "Balram OCP",
             "colCodes": "5055",
             "isSubtotal": true
-          },
-          {
-            "label": "Total",
-            "colCodes": "5046,5075,5077,5044,5055",
-            "isSubtotal": true
           }
         ]
       },
@@ -282,11 +277,6 @@
           {
             "label": "Talcher Total",
             "colCodes": "5046,5075,5077",
-            "isSubtotal": true
-          },
-          {
-            "label": "Total",
-            "colCodes": "5046,5075,5077,5158",
             "isSubtotal": true
           }
         ]
