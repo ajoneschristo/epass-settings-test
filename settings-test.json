@@ -174,8 +174,8 @@
   ],
   "powerReport": {
     "historyPath": "roadpower-history-test.json",
-    "r1Daywise": true,
-    "r2Daywise": true,
+    "r1Daywise": false,
+    "r2Daywise": false,
     "parties": [
       {
         "code": "1000000060",
