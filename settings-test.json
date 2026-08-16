@@ -180,15 +180,9 @@
       "2026-07"
     ],
     "html": {
-      "mode": "interactive",
+      "mode": "static",
       "tables": true,
-      "months": [
-        "2026-08",
-        "2026-07",
-        "2026-06",
-        "2026-05",
-        "2026-04"
-      ],
+      "months": [],
       "charts": {
         "kpi": true,
         "trend": true,
