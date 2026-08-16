@@ -1,26 +1,44 @@
 {
   "sheetUrl": "https://docs.google.com/spreadsheets/d/1DeB1yLM4IJ4um7gbx7nc5_3dks2dR9gZVZqOx1a8zb4",
-  "sheetName": "Rake and Road Despatch",
-  "sheetRange": "I6:O28",
+  "sheetName": "Road",
+  "sheetRange": "I6:S29",
   "scriptUrl": "https://script.google.com/macros/s/AKfycbzwJGEYgCOcQDrvNnqE7iQp2-XhfsSReA8ARhiI1HVMMRhbc0KuTIkrO55Hql8EZ5K9Eg/exec",
   "slots": [
     {
-      "label": "11:00 AM",
-      "time": "11:00",
-      "col": "L",
-      "autoFrom": "11:00"
-    },
-    {
-      "label": "1:30 PM",
-      "time": "13:30",
+      "label": "10:00 AM",
+      "time": "10:00",
       "col": "M",
-      "autoFrom": "13:30"
+      "autoFrom": "10:00"
     },
     {
-      "label": "5:30 PM",
-      "time": "17:30",
+      "label": "12:00 PM",
+      "time": "12:00",
       "col": "N",
-      "autoFrom": "17:30"
+      "autoFrom": "12:00"
+    },
+    {
+      "label": "2:00 PM",
+      "time": "14:00",
+      "col": "O",
+      "autoFrom": "14:00"
+    },
+    {
+      "label": "5:00 PM",
+      "time": "17:00",
+      "col": "P",
+      "autoFrom": "17:00"
+    },
+    {
+      "label": "8:00 PM",
+      "time": "20:00",
+      "col": "Q",
+      "autoFrom": "20:00"
+    },
+    {
+      "label": "10:00 PM",
+      "time": "22:00",
+      "col": "R",
+      "autoFrom": "22:00"
     },
     {
       "label": "4:30 PM",
@@ -61,95 +79,95 @@
       "collieryName": "Garjanbahal OCP"
     },
     {
-      "label": "Basundhara(W)",
-      "colCodes": "5025",
-      "sheetRow": 12,
-      "collieryName": "Basundhara (W) OCP"
-    },
-    {
       "label": "Siarmal",
       "colCodes": "5162",
-      "sheetRow": 0,
-      "collieryName": "Siarmal OCP"
+      "sheetRow": 12,
+      "collieryName": "Siarmal OCP, Basundhara"
+    },
+    {
+      "label": "Basundhara(W)",
+      "colCodes": "5025",
+      "sheetRow": 13,
+      "collieryName": "Basundhara (W) OCP"
     },
     {
       "label": "Orient",
       "colCodes": "5151,5150",
-      "sheetRow": 13,
+      "sheetRow": 14,
       "collieryName": "Orient UG Mine + HBI"
     },
     {
       "label": "IBCF",
       "colCodes": "",
-      "sheetRow": 14,
+      "sheetRow": 15,
       "collieryName": "IB Coalfield Total",
       "isTotal": true
     },
     {
       "label": "Jagannath",
       "colCodes": "5075",
-      "sheetRow": 16,
+      "sheetRow": 17,
       "collieryName": "Jagannath OCP"
     },
     {
       "label": "Ananta",
       "colCodes": "5046",
-      "sheetRow": 17,
+      "sheetRow": 18,
       "collieryName": "Ananta OCP"
     },
     {
       "label": "Bhubaneswari",
       "colCodes": "5077",
-      "sheetRow": 18,
+      "sheetRow": 19,
       "collieryName": "Bhubaneswari OCP"
     },
     {
       "label": "Bharatpur",
       "colCodes": "5044",
-      "sheetRow": 19,
+      "sheetRow": 20,
       "collieryName": "Bharatpur OCP"
     },
     {
       "label": "Lingaraj",
       "colCodes": "5114",
-      "sheetRow": 20,
+      "sheetRow": 21,
       "collieryName": "Lingaraj OCP"
     },
     {
       "label": "Hingula",
       "colCodes": "5054",
-      "sheetRow": 21,
+      "sheetRow": 22,
       "collieryName": "Hingula OCP"
     },
     {
       "label": "Balram",
       "colCodes": "5055",
-      "sheetRow": 22,
+      "sheetRow": 23,
       "collieryName": "Balram OCP"
     },
     {
       "label": "Kaniha",
       "colCodes": "5094",
-      "sheetRow": 23,
+      "sheetRow": 24,
       "collieryName": "Kaniha OCP"
     },
     {
       "label": "Nandira",
       "colCodes": "5165",
-      "sheetRow": 24,
+      "sheetRow": 25,
       "collieryName": "Nandira UG Mine"
     },
     {
       "label": "TCF",
       "colCodes": "",
-      "sheetRow": 25,
+      "sheetRow": 26,
       "collieryName": "Talcher Coalfield Total",
       "isTotal": true
     },
     {
       "label": "MCL",
       "colCodes": "",
-      "sheetRow": 27,
+      "sheetRow": 28,
       "collieryName": "MCL Total",
       "isGrandTotal": true
     }
