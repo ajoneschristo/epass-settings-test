@@ -236,11 +236,6 @@
             "label": "Bharatpur OCP",
             "colCodes": "5044",
             "isSubtotal": false
-          },
-          {
-            "label": "Balram OCP",
-            "colCodes": "5055",
-            "isSubtotal": true
           }
         ]
       },
@@ -277,11 +272,6 @@
           {
             "label": "Ananta OCP",
             "colCodes": "5046",
-            "isSubtotal": false
-          },
-          {
-            "label": "Jagannath OCP",
-            "colCodes": "5075",
             "isSubtotal": false
           },
           {
