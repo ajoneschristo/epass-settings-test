@@ -171,5 +171,260 @@
       "collieryName": "MCL Total",
       "isGrandTotal": true
     }
-  ]
+  ],
+  "powerReport": {
+    "historyPath": "roadpower-history-test.json",
+    "parties": [
+      {
+        "code": "2000003847",
+        "name": "ACB (INDIA) LIMITED",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
+        "code": "2000005231",
+        "name": "ADANI POWER LIMITED",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
+        "code": "2000005453",
+        "name": "ADANI POWER LIMITED",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
+        "code": "2000000106",
+        "name": "ADANI POWER LIMITED",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
+        "code": "2000005225",
+        "name": "ADANI POWER LIMITED",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
+        "code": "1000000090",
+        "name": "APPDCL - SRI DAMODARAM SANJEEVAIAH",
+        "power": true,
+        "r1": true,
+        "r2": true,
+        "cols": [
+          {
+            "label": "Ananta OCP",
+            "colCodes": "5046",
+            "isSubtotal": false
+          },
+          {
+            "label": "Jagannath OCP",
+            "colCodes": "5075",
+            "isSubtotal": false
+          },
+          {
+            "label": "Bhubaneswari OCP",
+            "colCodes": "5077",
+            "isSubtotal": false
+          },
+          {
+            "label": "Integrated LBL OCP",
+            "colCodes": "5158",
+            "isSubtotal": false
+          },
+          {
+            "label": "Talcher Total",
+            "colCodes": "5046,5075,5077",
+            "isSubtotal": true
+          }
+        ]
+      },
+      {
+        "code": "2000000110",
+        "name": "CESC LTD",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
+        "code": "2000000630",
+        "name": "DB POWER LTD",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
+        "code": "1000000075",
+        "name": "DR. NARLA TATA RAO POWER STATION",
+        "power": true,
+        "r1": true,
+        "r2": true,
+        "cols": [
+          {
+            "label": "Ananta OCP",
+            "colCodes": "5046",
+            "isSubtotal": false
+          },
+          {
+            "label": "Jagannath OCP",
+            "colCodes": "5075",
+            "isSubtotal": false
+          },
+          {
+            "label": "Bhubaneswari OCP",
+            "colCodes": "5077",
+            "isSubtotal": false
+          },
+          {
+            "label": "Bharatpur OCP",
+            "colCodes": "5044",
+            "isSubtotal": false
+          },
+          {
+            "label": "Balram OCP",
+            "colCodes": "5055",
+            "isSubtotal": false
+          }
+        ]
+      },
+      {
+        "code": "1000000060",
+        "name": "DURGAPUR STEEL THERMAL POWER",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
+        "code": "2000000672",
+        "name": "GMR KAMALANGA ENERGY LTD",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
+        "code": "2000000429",
+        "name": "JINDAL INDIA POWER LIMITED",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
+        "code": "2000005483",
+        "name": "JINDAL POWER LIMITED",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
+        "code": "2000000547",
+        "name": "JINDAL POWER LTD",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
+        "code": "2000005230",
+        "name": "JSW ENERGY (UTKAL) LIMITED",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
+        "code": "2000000679",
+        "name": "JSW MAHANADI POWER COMPANY LIMITED",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
+        "code": "1000000088",
+        "name": "KHAPERKHEDA THERMAL POWER STATION",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
+        "code": "1000000087",
+        "name": "KORADI THERMAL POWER STATION",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
+        "code": "2000005150",
+        "name": "MAADURGA THERMAL POWER COMPANY LIMI",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
+        "code": "2000005451",
+        "name": "MOXIE POWER GENERATION LIMITED",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
+        "code": "2000005465",
+        "name": "MOXIE POWER GENERATION LIMITED",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
+        "code": "2000005075",
+        "name": "NAVA BHARAT ENERGY INDIA LIMITED",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
+        "code": "2000005226",
+        "name": "NAVA LIMITED (UNIT-3)",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
+        "code": "2000000456",
+        "name": "OPG POWER GENERATION PVT LTD",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
+        "code": "2000000690",
+        "name": "R K M POWERGEN PRIVATE LIMITED",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
+        "code": "2000005457",
+        "name": "SARDA ENERGY & MINERALS LIMITED",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
+        "code": "2000000756",
+        "name": "SKS POWER GENERATION",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
+        "code": "3000004310",
+        "name": "TRN ENERGY PRIVATE LIMITED",
+        "power": true,
+        "r1": true,
+        "r2": false
+      }
+    ]
+  }
 }
