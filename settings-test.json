@@ -392,6 +392,17 @@
         "r2": false
       },
       {
+        "code": "2000005067",
+        "codes": [
+          "2000005067",
+          "2000005432"
+        ],
+        "name": "NAVA LIMITED (Non-Power)",
+        "power": true,
+        "r1": false,
+        "r2": false
+      },
+      {
         "code": "2000005075",
         "codes": [
           "2000005075"
