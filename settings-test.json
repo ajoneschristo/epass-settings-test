@@ -180,7 +180,7 @@
       "2026-07"
     ],
     "html": {
-      "mode": "interactive",
+      "mode": "static",
       "tables": true,
       "months": [
         "2026-08",
