@@ -437,9 +437,10 @@
       {
         "code": "2000005226",
         "codes": [
-          "2000005226"
+          "2000005226",
+          "2000000062"
         ],
-        "name": "NAVA LIMITED (UNIT-3)",
+        "name": "NAVA LIMITED",
         "power": true,
         "r1": true,
         "r2": false
