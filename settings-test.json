@@ -174,7 +174,7 @@
   ],
   "powerReport": {
     "historyPath": "roadpower-history-test.json",
-    "r1Daywise": false,
+    "r1Daywise": true,
     "r2Daywise": true,
     "r2Months": [
       "2026-04",
