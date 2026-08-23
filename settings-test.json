@@ -183,7 +183,7 @@
       "2026-07"
     ],
     "html": {
-      "mode": "static",
+      "mode": "interactive",
       "tables": true,
       "months": [
         "2026-08",
