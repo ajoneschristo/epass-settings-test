@@ -205,6 +205,28 @@
         "stacked": true
       }
     },
+    "show": {
+      "r1": {
+        "on": {
+          "total": false,
+          "avg": true
+        },
+        "off": {
+          "total": false,
+          "avg": true
+        }
+      },
+      "r2": {
+        "on": {
+          "total": false,
+          "avg": true
+        },
+        "off": {
+          "total": true,
+          "avg": true
+        }
+      }
+    },
     "parties": [
       {
         "code": "1000000060",
