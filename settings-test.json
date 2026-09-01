@@ -183,48 +183,33 @@
       "2026-07",
       "2026-08"
     ],
-    "html": {
-      "mode": "static",
-      "tables": true,
-      "months": [
-        "2026-08",
-        "2026-07",
-        "2026-06",
-        "2026-04",
-        "2026-05"
-      ],
-      "charts": {
-        "kpi": true,
-        "trend": true,
-        "cumulative": true,
-        "ranking": true,
-        "deviation": true,
-        "customer": true,
-        "heatmap": true,
-        "monthly": true,
-        "split": true,
-        "stacked": true
-      }
-    },
     "show": {
       "r1": {
         "on": {
-          "total": false,
-          "avg": true
+          "total": true,
+          "avg": true,
+          "ctotal": true,
+          "cavg": true
         },
         "off": {
-          "total": false,
-          "avg": true
+          "total": true,
+          "avg": true,
+          "ctotal": true,
+          "cavg": true
         }
       },
       "r2": {
         "on": {
           "total": false,
-          "avg": true
+          "avg": true,
+          "ctotal": true,
+          "cavg": true
         },
         "off": {
           "total": true,
-          "avg": true
+          "avg": true,
+          "ctotal": true,
+          "cavg": true
         }
       }
     },
