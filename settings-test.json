@@ -229,6 +229,20 @@
         }
       }
     },
+    "reports": [
+      {
+        "id": 1,
+        "show": true
+      },
+      {
+        "id": 2,
+        "show": true
+      },
+      {
+        "id": 3,
+        "show": true
+      }
+    ],
     "parties": [
       {
         "code": "1000000060",
