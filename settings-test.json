@@ -280,6 +280,7 @@
         "show": false
       }
     ],
+    "pdfMode": "light",
     "parties": [
       {
         "code": "1000000060",
