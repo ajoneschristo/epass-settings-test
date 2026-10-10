@@ -176,6 +176,7 @@
     "historyPath": "roadpower-history-test.json",
     "r1Daywise": true,
     "r2Daywise": true,
+    "r3Daywise": true,
     "r2Months": [
       "2026-04",
       "2026-05",
@@ -200,6 +201,20 @@
         }
       },
       "r2": {
+        "on": {
+          "total": false,
+          "avg": true,
+          "ctotal": true,
+          "cavg": true
+        },
+        "off": {
+          "total": false,
+          "avg": true,
+          "ctotal": true,
+          "cavg": true
+        }
+      },
+      "r3": {
         "on": {
           "total": true,
           "avg": true,
