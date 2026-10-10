@@ -177,6 +177,7 @@
     "r1Daywise": true,
     "r2Daywise": true,
     "r3Daywise": true,
+    "r4Daywise": true,
     "r2Months": [
       "2026-04",
       "2026-05",
@@ -227,6 +228,20 @@
           "ctotal": true,
           "cavg": true
         }
+      },
+      "r4": {
+        "on": {
+          "total": false,
+          "avg": true,
+          "ctotal": true,
+          "cavg": true
+        },
+        "off": {
+          "total": false,
+          "avg": true,
+          "ctotal": true,
+          "cavg": true
+        }
       }
     },
     "reports": [
@@ -240,6 +255,28 @@
       },
       {
         "id": 3,
+        "show": true
+      },
+      {
+        "id": 4,
+        "show": true
+      }
+    ],
+    "exportReports": [
+      {
+        "id": 1,
+        "show": true
+      },
+      {
+        "id": 2,
+        "show": true
+      },
+      {
+        "id": 3,
+        "show": true
+      },
+      {
+        "id": 4,
         "show": true
       }
     ],
