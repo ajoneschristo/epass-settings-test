@@ -202,13 +202,13 @@
       },
       "r2": {
         "on": {
-          "total": false,
+          "total": true,
           "avg": true,
           "ctotal": true,
           "cavg": true
         },
         "off": {
-          "total": false,
+          "total": true,
           "avg": true,
           "ctotal": true,
           "cavg": true
@@ -216,13 +216,13 @@
       },
       "r3": {
         "on": {
-          "total": true,
+          "total": false,
           "avg": true,
           "ctotal": true,
           "cavg": true
         },
         "off": {
-          "total": true,
+          "total": false,
           "avg": true,
           "ctotal": true,
           "cavg": true
