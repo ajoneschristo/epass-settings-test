@@ -418,6 +418,16 @@
         "r2": false
       },
       {
+        "code": "2000000547",
+        "codes": [
+          "2000000547"
+        ],
+        "name": "JINDAL POWER LTD",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
         "code": "2000000630",
         "codes": [
           "2000000630"
