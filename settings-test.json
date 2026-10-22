@@ -294,6 +294,16 @@
         "r2": false
       },
       {
+        "code": "1000000042",
+        "codes": [
+          "1000000042"
+        ],
+        "name": "SOLAPUR SUPER THERMAL POWER PROJECT",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
         "code": "1000000060",
         "codes": [
           "1000000060"
