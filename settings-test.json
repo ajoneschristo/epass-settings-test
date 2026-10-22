@@ -282,6 +282,12 @@
     ],
     "pdfMode": "render",
     "pdfLevel": "high",
+    "lock": {
+      "on": true,
+      "mode": "ddmm",
+      "stay": 0,
+      "days": true
+    },
     "parties": [
       {
         "code": "1000000039",
