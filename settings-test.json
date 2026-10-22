@@ -322,6 +322,16 @@
         "r2": false
       },
       {
+        "code": "1000000074",
+        "codes": [
+          "1000000074"
+        ],
+        "name": "RAYALSEEMA THERMAL POWER PROJECT",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
         "code": "1000000075",
         "codes": [
           "1000000075"
