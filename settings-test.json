@@ -388,6 +388,16 @@
         ]
       },
       {
+        "code": "1000000154",
+        "codes": [
+          "1000000154"
+        ],
+        "name": "KHARGONE SUPER THERMAL POWER STATIO",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
         "code": "2000000047",
         "codes": [
           "2000000047"
