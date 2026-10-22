@@ -283,7 +283,7 @@
     "pdfMode": "render",
     "pdfLevel": "high",
     "lock": {
-      "on": true,
+      "on": false,
       "mode": "ddmm",
       "stay": 0,
       "days": false
