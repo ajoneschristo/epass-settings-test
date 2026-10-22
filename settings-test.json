@@ -382,6 +382,7 @@
         "power": true,
         "r1": true,
         "r2": true,
+        "r1Nil": true,
         "cols": [
           {
             "label": "Ananta OCP",
