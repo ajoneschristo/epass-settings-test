@@ -286,7 +286,7 @@
       "on": true,
       "mode": "ddmm",
       "stay": 0,
-      "days": true
+      "days": false
     },
     "parties": [
       {
