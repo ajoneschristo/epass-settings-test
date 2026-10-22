@@ -284,6 +284,16 @@
     "pdfLevel": "high",
     "parties": [
       {
+        "code": "1000000039",
+        "codes": [
+          "1000000039"
+        ],
+        "name": "SIMHADRI SUPER THERMAL POWER",
+        "power": true,
+        "r1": true,
+        "r2": false
+      },
+      {
         "code": "1000000060",
         "codes": [
           "1000000060"
