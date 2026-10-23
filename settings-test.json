@@ -294,6 +294,10 @@
       "tab": "MCL",
       "script": "https://script.google.com/macros/s/AKfycbwN8hPTVJxKhRzu3TaMfBWUObKKK6tuO5Vxl26Ga4kS10FrtMLH5ATpcPtGxBv8515fmA/exec",
       "map": {
+        "1000000042": {
+          "row": 112,
+          "col": "D"
+        },
         "1000000075": {
           "row": 58,
           "col": "E"
