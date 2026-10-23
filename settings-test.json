@@ -288,6 +288,13 @@
       "stay": 0,
       "days": false
     },
+    "gsheet": {
+      "on": false,
+      "url": "",
+      "tab": "",
+      "script": "https://script.google.com/macros/s/AKfycbwN8hPTVJxKhRzu3TaMfBWUObKKK6tuO5Vxl26Ga4kS10FrtMLH5ATpcPtGxBv8515fmA/exec",
+      "map": {}
+    },
     "parties": [
       {
         "code": "1000000039",
