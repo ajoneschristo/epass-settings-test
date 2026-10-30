@@ -231,13 +231,13 @@
       },
       "r4": {
         "on": {
-          "total": true,
+          "total": false,
           "avg": true,
           "ctotal": true,
           "cavg": true
         },
         "off": {
-          "total": true,
+          "total": false,
           "avg": true,
           "ctotal": true,
           "cavg": true
