@@ -195,7 +195,7 @@
           "cavg": true
         },
         "off": {
-          "total": false,
+          "total": true,
           "avg": true,
           "ctotal": true,
           "cavg": true
