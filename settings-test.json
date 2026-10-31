@@ -283,10 +283,10 @@
     "pdfMode": "render",
     "pdfLevel": "high",
     "lock": {
-      "on": false,
+      "on": true,
       "mode": "ddmm",
       "stay": 0,
-      "days": false
+      "days": true
     },
     "gsheet": {
       "on": true,
