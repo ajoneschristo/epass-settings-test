@@ -177,7 +177,7 @@
     "r1Daywise": true,
     "r2Daywise": true,
     "r3Daywise": true,
-    "r4Daywise": true,
+    "r4Daywise": false,
     "r2Months": [
       "2026-04",
       "2026-05",
