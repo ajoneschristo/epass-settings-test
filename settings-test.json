@@ -284,7 +284,7 @@
     "pdfMode": "render",
     "pdfLevel": "high",
     "lock": {
-      "on": true,
+      "on": false,
       "mode": "ddmm",
       "stay": 0,
       "days": false
@@ -396,7 +396,7 @@
         "codes": [
           "1000000039"
         ],
-        "name": "NTPC Group",
+        "name": "SIMHADRI SUPER THERMAL POWER",
         "power": true,
         "r1": true,
         "r2": false,
