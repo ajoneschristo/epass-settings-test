@@ -403,6 +403,17 @@
         "r1Nil": true
       },
       {
+        "code": "1000000042",
+        "codes": [
+          "1000000042"
+        ],
+        "name": "SOLAPUR SUPER THERMAL POWER PROJECT",
+        "power": true,
+        "r1": true,
+        "r2": false,
+        "r1Nil": true
+      },
+      {
         "code": "1000000060",
         "codes": [
           "1000000060"
@@ -505,6 +516,17 @@
             "isSubtotal": true
           }
         ]
+      },
+      {
+        "code": "1000000154",
+        "codes": [
+          "1000000154"
+        ],
+        "name": "KHARGONE SUPER THERMAL POWER STATIO",
+        "power": true,
+        "r1": true,
+        "r2": false,
+        "r1Nil": true
       },
       {
         "code": "2000000047",
