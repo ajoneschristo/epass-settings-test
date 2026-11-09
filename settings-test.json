@@ -461,8 +461,15 @@
         "name": "RAYALSEEMA THERMAL POWER PROJECT",
         "power": true,
         "r1": true,
-        "r2": false,
-        "grp": "g3"
+        "r2": true,
+        "grp": "g3",
+        "cols": [
+          {
+            "label": "Bhubaneswari OCP",
+            "colCodes": "5077",
+            "isSubtotal": false
+          }
+        ]
       },
       {
         "code": "1000000075",
@@ -584,7 +591,7 @@
         "power": true,
         "r1": true,
         "r2": false,
-        "grp": "g1"
+        "grp": "g2"
       },
       {
         "code": "2000000429",
@@ -606,7 +613,7 @@
         "power": true,
         "r1": true,
         "r2": false,
-        "grp": "g1"
+        "grp": "g2"
       },
       {
         "code": "2000000630",
@@ -732,7 +739,7 @@
         "power": true,
         "r1": true,
         "r2": false,
-        "grp": "g1"
+        "grp": "g2"
       },
       {
         "code": "2000005457",
