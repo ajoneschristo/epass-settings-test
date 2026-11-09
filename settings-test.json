@@ -408,7 +408,7 @@
       }
     ],
     "groupTable": true,
-    "groupSubtotals": false,
+    "groupSubtotals": true,
     "groupColors": true,
     "parties": [
       {
