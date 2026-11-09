@@ -392,16 +392,16 @@
     },
     "groups": [
       {
-        "id": "g1",
-        "name": "Direct"
+        "id": "g3",
+        "name": "Washery"
       },
       {
         "id": "g2",
         "name": "RCR"
       },
       {
-        "id": "g3",
-        "name": "Washery"
+        "id": "g1",
+        "name": "Direct"
       }
     ],
     "groupTable": true,
