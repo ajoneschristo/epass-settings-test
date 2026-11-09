@@ -228,7 +228,7 @@
         "on": {
           "total": false,
           "avg": true,
-          "ctotal": true,
+          "ctotal": false,
           "cavg": true,
           "fyavg": true,
           "fytotal": true
@@ -236,7 +236,7 @@
         "off": {
           "total": false,
           "avg": true,
-          "ctotal": true,
+          "ctotal": false,
           "cavg": true,
           "fyavg": true,
           "fytotal": true
@@ -246,7 +246,7 @@
         "on": {
           "total": false,
           "avg": true,
-          "ctotal": true,
+          "ctotal": false,
           "cavg": true,
           "fyavg": true,
           "fytotal": true
@@ -254,7 +254,7 @@
         "off": {
           "total": false,
           "avg": true,
-          "ctotal": true,
+          "ctotal": false,
           "cavg": true,
           "fyavg": true,
           "fytotal": true
