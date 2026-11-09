@@ -193,13 +193,15 @@
           "total": false,
           "avg": true,
           "ctotal": true,
-          "cavg": true
+          "cavg": true,
+          "fyavg": true
         },
         "off": {
           "total": true,
           "avg": true,
           "ctotal": true,
-          "cavg": true
+          "cavg": true,
+          "fyavg": true
         }
       },
       "r2": {
@@ -207,13 +209,15 @@
           "total": true,
           "avg": true,
           "ctotal": true,
-          "cavg": true
+          "cavg": true,
+          "fyavg": true
         },
         "off": {
           "total": true,
           "avg": true,
           "ctotal": true,
-          "cavg": true
+          "cavg": true,
+          "fyavg": true
         }
       },
       "r3": {
@@ -221,13 +225,15 @@
           "total": false,
           "avg": true,
           "ctotal": true,
-          "cavg": true
+          "cavg": true,
+          "fyavg": true
         },
         "off": {
           "total": false,
           "avg": true,
           "ctotal": true,
-          "cavg": true
+          "cavg": true,
+          "fyavg": true
         }
       },
       "r4": {
@@ -235,13 +241,15 @@
           "total": false,
           "avg": true,
           "ctotal": true,
-          "cavg": true
+          "cavg": true,
+          "fyavg": true
         },
         "off": {
           "total": false,
           "avg": true,
           "ctotal": true,
-          "cavg": true
+          "cavg": true,
+          "fyavg": true
         }
       }
     },
@@ -376,18 +384,23 @@
     "groups": [
       {
         "id": "g1",
-        "name": "Direct"
+        "name": "Direct",
+        "color": "blue"
       },
       {
         "id": "g2",
-        "name": "RCR"
+        "name": "RCR",
+        "color": "green"
       },
       {
         "id": "g3",
-        "name": "Washery"
+        "name": "Washery",
+        "color": "amber"
       }
     ],
     "groupTable": true,
+    "groupSubtotals": true,
+    "groupColors": true,
     "parties": [
       {
         "code": "1000000039",
