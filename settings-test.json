@@ -299,7 +299,7 @@
     ],
     "pdfMode": "render",
     "pdfLevel": "high",
-    "pdfPowerOnePage": false,
+    "pdfPowerOnePage": true,
     "lock": {
       "on": false,
       "mode": "ddmm",
