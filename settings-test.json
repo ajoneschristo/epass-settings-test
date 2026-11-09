@@ -192,14 +192,14 @@
         "on": {
           "total": false,
           "avg": true,
-          "ctotal": true,
+          "ctotal": false,
           "cavg": true,
           "fyavg": true
         },
         "off": {
           "total": true,
           "avg": true,
-          "ctotal": true,
+          "ctotal": false,
           "cavg": true,
           "fyavg": true
         }
