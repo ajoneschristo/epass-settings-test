@@ -194,14 +194,16 @@
           "avg": true,
           "ctotal": false,
           "cavg": true,
-          "fyavg": true
+          "fyavg": true,
+          "fytotal": false
         },
         "off": {
           "total": true,
           "avg": true,
           "ctotal": false,
           "cavg": true,
-          "fyavg": true
+          "fyavg": true,
+          "fytotal": false
         }
       },
       "r2": {
@@ -210,14 +212,16 @@
           "avg": true,
           "ctotal": true,
           "cavg": true,
-          "fyavg": true
+          "fyavg": true,
+          "fytotal": false
         },
         "off": {
           "total": true,
           "avg": true,
           "ctotal": true,
           "cavg": true,
-          "fyavg": true
+          "fyavg": true,
+          "fytotal": false
         }
       },
       "r3": {
@@ -226,14 +230,16 @@
           "avg": true,
           "ctotal": true,
           "cavg": true,
-          "fyavg": true
+          "fyavg": true,
+          "fytotal": false
         },
         "off": {
           "total": false,
           "avg": true,
           "ctotal": true,
           "cavg": true,
-          "fyavg": true
+          "fyavg": true,
+          "fytotal": false
         }
       },
       "r4": {
@@ -242,14 +248,16 @@
           "avg": true,
           "ctotal": true,
           "cavg": true,
-          "fyavg": true
+          "fyavg": true,
+          "fytotal": true
         },
         "off": {
           "total": false,
           "avg": true,
           "ctotal": true,
           "cavg": true,
-          "fyavg": true
+          "fyavg": true,
+          "fytotal": true
         }
       }
     },
@@ -291,6 +299,7 @@
     ],
     "pdfMode": "render",
     "pdfLevel": "high",
+    "pdfPowerOnePage": false,
     "lock": {
       "on": false,
       "mode": "ddmm",
