@@ -187,6 +187,7 @@
       "2026-09",
       "2026-10"
     ],
+    "dbPageAll": false,
     "show": {
       "r1": {
         "on": {
@@ -277,6 +278,10 @@
       {
         "id": 4,
         "show": true
+      },
+      {
+        "id": 5,
+        "show": true
       }
     ],
     "exportReports": [
@@ -300,6 +305,8 @@
     "pdfMode": "render",
     "pdfLevel": "high",
     "pdfPowerOnePage": true,
+    "dlFormat": "both",
+    "dlShare": true,
     "lock": {
       "on": false,
       "mode": "ddmm",
@@ -772,7 +779,6 @@
         "r2": false,
         "grp": "g1"
       }
-    ],
-    "dbPageAll": false
+    ]
   }
 }
