@@ -290,7 +290,7 @@
       "days": false
     },
     "gsheet": {
-      "on": true,
+      "on": false,
       "url": "https://docs.google.com/spreadsheets/d/1bhnS-DJwF7F0XKEAlG8nm7joRvkw6pnzXTwZt2xczms/edit?gid=495706243#gid=495706243",
       "tab": "MCL",
       "script": "https://script.google.com/macros/s/AKfycbwN8hPTVJxKhRzu3TaMfBWUObKKK6tuO5Vxl26Ga4kS10FrtMLH5ATpcPtGxBv8515fmA/exec",
@@ -390,6 +390,21 @@
       },
       "inc": 4
     },
+    "groups": [
+      {
+        "id": "g1",
+        "name": "Direct"
+      },
+      {
+        "id": "g2",
+        "name": "RCR"
+      },
+      {
+        "id": "g3",
+        "name": "Washery"
+      }
+    ],
+    "groupTable": true,
     "parties": [
       {
         "code": "1000000039",
@@ -400,7 +415,8 @@
         "power": true,
         "r1": true,
         "r2": false,
-        "r1Nil": true
+        "r1Nil": true,
+        "grp": "g2"
       },
       {
         "code": "1000000042",
@@ -411,7 +427,8 @@
         "power": true,
         "r1": true,
         "r2": false,
-        "r1Nil": true
+        "r1Nil": true,
+        "grp": "g2"
       },
       {
         "code": "1000000060",
@@ -421,7 +438,8 @@
         "name": "DURGAPUR STEEL THERMAL POWER",
         "power": true,
         "r1": true,
-        "r2": false
+        "r2": false,
+        "grp": "g1"
       },
       {
         "code": "1000000074",
@@ -431,7 +449,8 @@
         "name": "RAYALSEEMA THERMAL POWER PROJECT",
         "power": true,
         "r1": true,
-        "r2": false
+        "r2": false,
+        "grp": "g3"
       },
       {
         "code": "1000000075",
@@ -442,6 +461,7 @@
         "power": true,
         "r1": true,
         "r2": true,
+        "grp": "g3",
         "cols": [
           {
             "label": "Ananta OCP",
@@ -473,7 +493,8 @@
         "name": "KORADI THERMAL POWER STATION",
         "power": true,
         "r1": true,
-        "r2": false
+        "r2": false,
+        "grp": "g3"
       },
       {
         "code": "1000000088",
@@ -483,7 +504,8 @@
         "name": "KHAPERKHEDA THERMAL POWER STATION",
         "power": true,
         "r1": true,
-        "r2": false
+        "r2": false,
+        "grp": "g3"
       },
       {
         "code": "1000000090",
@@ -494,6 +516,7 @@
         "power": true,
         "r1": true,
         "r2": true,
+        "grp": "g3",
         "cols": [
           {
             "label": "Ananta OCP",
@@ -526,7 +549,8 @@
         "power": true,
         "r1": true,
         "r2": false,
-        "r1Nil": true
+        "r1Nil": true,
+        "grp": "g2"
       },
       {
         "code": "2000000047",
@@ -536,7 +560,8 @@
         "name": "JSW ENERGY LTD",
         "power": true,
         "r1": true,
-        "r2": false
+        "r2": false,
+        "grp": "g1"
       },
       {
         "code": "2000000110",
@@ -546,7 +571,8 @@
         "name": "CESC LTD",
         "power": true,
         "r1": true,
-        "r2": false
+        "r2": false,
+        "grp": "g1"
       },
       {
         "code": "2000000429",
@@ -556,7 +582,8 @@
         "name": "JINDAL INDIA POWER LIMITED",
         "power": true,
         "r1": true,
-        "r2": false
+        "r2": false,
+        "grp": "g1"
       },
       {
         "code": "2000000456",
@@ -566,7 +593,8 @@
         "name": "OPG POWER GENERATION PVT LTD",
         "power": true,
         "r1": true,
-        "r2": false
+        "r2": false,
+        "grp": "g1"
       },
       {
         "code": "2000000630",
@@ -576,7 +604,8 @@
         "name": "DB POWER LTD",
         "power": true,
         "r1": true,
-        "r2": false
+        "r2": false,
+        "grp": "g1"
       },
       {
         "code": "2000000672",
@@ -586,7 +615,8 @@
         "name": "GMR KAMALANGA ENERGY LTD",
         "power": true,
         "r1": true,
-        "r2": false
+        "r2": false,
+        "grp": "g1"
       },
       {
         "code": "2000000679",
@@ -596,7 +626,8 @@
         "name": "JSW MAHANADI POWER COMPANY LIMITED",
         "power": true,
         "r1": true,
-        "r2": false
+        "r2": false,
+        "grp": "g1"
       },
       {
         "code": "2000000690",
@@ -606,7 +637,8 @@
         "name": "R K M POWERGEN PRIVATE LIMITED",
         "power": true,
         "r1": true,
-        "r2": false
+        "r2": false,
+        "grp": "g1"
       },
       {
         "code": "2000000756",
@@ -616,7 +648,8 @@
         "name": "SKS POWER GENERATION",
         "power": true,
         "r1": true,
-        "r2": false
+        "r2": false,
+        "grp": "g1"
       },
       {
         "code": "2000005075",
@@ -626,7 +659,8 @@
         "name": "NAVA BHARAT ENERGY INDIA LIMITED",
         "power": true,
         "r1": true,
-        "r2": false
+        "r2": false,
+        "grp": "g1"
       },
       {
         "code": "2000005150",
@@ -636,7 +670,8 @@
         "name": "MAADURGA THERMAL POWER COMPANY LIMI",
         "power": true,
         "r1": true,
-        "r2": false
+        "r2": false,
+        "grp": "g1"
       },
       {
         "code": "2000005225",
@@ -649,7 +684,8 @@
         "name": "ADANI POWER LIMITED",
         "power": true,
         "r1": true,
-        "r2": false
+        "r2": false,
+        "grp": "g1"
       },
       {
         "code": "2000005226",
@@ -660,7 +696,8 @@
         "name": "NAVA LIMITED (Power)",
         "power": true,
         "r1": true,
-        "r2": false
+        "r2": false,
+        "grp": "g1"
       },
       {
         "code": "2000005230",
@@ -670,7 +707,8 @@
         "name": "JSW ENERGY (UTKAL) LIMITED",
         "power": true,
         "r1": true,
-        "r2": false
+        "r2": false,
+        "grp": "g1"
       },
       {
         "code": "2000005451",
@@ -681,7 +719,8 @@
         "name": "MOXIE POWER GENERATION LIMITED",
         "power": true,
         "r1": true,
-        "r2": false
+        "r2": false,
+        "grp": "g1"
       },
       {
         "code": "2000005457",
@@ -691,7 +730,8 @@
         "name": "SARDA ENERGY & MINERALS LIMITED",
         "power": true,
         "r1": true,
-        "r2": false
+        "r2": false,
+        "grp": "g1"
       },
       {
         "code": "2000005473",
@@ -701,7 +741,8 @@
         "name": "VEDANTA LIMITED",
         "power": true,
         "r1": true,
-        "r2": false
+        "r2": false,
+        "grp": "g1"
       },
       {
         "code": "2000005483",
@@ -712,7 +753,8 @@
         "name": "JINDAL POWER LIMITED",
         "power": true,
         "r1": true,
-        "r2": false
+        "r2": false,
+        "grp": "g1"
       },
       {
         "code": "3000004310",
@@ -722,7 +764,8 @@
         "name": "TRN ENERGY PRIVATE LIMITED",
         "power": true,
         "r1": true,
-        "r2": false
+        "r2": false,
+        "grp": "g1"
       }
     ]
   }
