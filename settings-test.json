@@ -211,7 +211,7 @@
         "on": {
           "total": true,
           "avg": true,
-          "ctotal": true,
+          "ctotal": false,
           "cavg": true,
           "fyavg": true,
           "fytotal": false
@@ -219,7 +219,7 @@
         "off": {
           "total": true,
           "avg": true,
-          "ctotal": true,
+          "ctotal": false,
           "cavg": true,
           "fyavg": true,
           "fytotal": false
