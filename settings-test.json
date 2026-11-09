@@ -196,7 +196,7 @@
           "ctotal": false,
           "cavg": true,
           "fyavg": true,
-          "fytotal": true
+          "fytotal": false
         },
         "off": {
           "total": true,
@@ -204,7 +204,7 @@
           "ctotal": false,
           "cavg": true,
           "fyavg": true,
-          "fytotal": true
+          "fytotal": false
         }
       },
       "r2": {
