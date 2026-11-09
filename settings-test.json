@@ -772,6 +772,7 @@
         "r2": false,
         "grp": "g1"
       }
-    ]
+    ],
+    "dbPageAll": true
   }
 }
