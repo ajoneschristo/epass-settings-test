@@ -304,7 +304,7 @@
     ],
     "pdfMode": "render",
     "pdfLevel": "high",
-    "pdfPowerOnePage": true,
+    "pdfPowerOnePage": false,
     "dlFormat": "both",
     "dlShare": true,
     "lock": {
