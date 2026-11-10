@@ -789,6 +789,7 @@
         "r2": false,
         "grp": "g1"
       }
-    ]
+    ],
+    "dbPageSize": 1000
   }
 }
