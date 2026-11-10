@@ -187,7 +187,7 @@
       "2026-09",
       "2026-10"
     ],
-    "dbPageAll": false,
+    "dbPageAll": true,
     "show": {
       "r1": {
         "on": {
