@@ -190,7 +190,7 @@
     "dbPageSize": 1000,
     "dbPageAll": true,
     "dbStat": {
-      "col": "doNum",
+      "col": "lapsed",
       "show": [
         "sum",
         "avg",
