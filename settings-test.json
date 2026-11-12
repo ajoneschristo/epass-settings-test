@@ -450,7 +450,7 @@
     },
     "top": {
       "mode": "compact",
-      "scroll": "away",
+      "scroll": "stay",
       "warn": true,
       "fade": true
     },
