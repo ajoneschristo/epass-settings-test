@@ -438,7 +438,8 @@
     },
     "dbHidden": [
       "size",
-      "balance"
+      "balance",
+      "daysLeft"
     ],
     "dbColsInTab": true,
     "doEditStyle": {
