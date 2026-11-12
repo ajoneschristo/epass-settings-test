@@ -448,7 +448,8 @@
     },
     "dbHidden": [
       "size",
-      "daysLeft"
+      "daysLeft",
+      "asking"
     ],
     "dbColsInTab": true,
     "dbTab": {
