@@ -437,6 +437,7 @@
       }
     },
     "dbHidden": [
+      "partyCode",
       "collieryCode",
       "size",
       "daysLeft",
