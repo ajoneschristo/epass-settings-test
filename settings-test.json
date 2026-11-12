@@ -818,6 +818,16 @@
         "r2": false,
         "grp": "g1"
       }
-    ]
+    ],
+    "dbStat": {
+      "col": "doNum",
+      "show": [
+        "sum",
+        "avg",
+        "count",
+        "min",
+        "max"
+      ]
+    }
   }
 }
