@@ -437,7 +437,8 @@
       }
     },
     "dbHidden": [
-      "size"
+      "size",
+      "balance"
     ],
     "dbColsInTab": true,
     "doEditStyle": {
