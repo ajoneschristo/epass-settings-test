@@ -437,6 +437,7 @@
       }
     },
     "dbHidden": [
+      "collieryCode",
       "size",
       "daysLeft",
       "asking"
