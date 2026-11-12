@@ -436,7 +436,9 @@
         "doStartDate": "29-Sep-2026"
       }
     },
-    "dbHidden": [],
+    "dbHidden": [
+      "size"
+    ],
     "dbColsInTab": true,
     "doEditStyle": {
       "mode": "fill",
