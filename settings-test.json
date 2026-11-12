@@ -418,6 +418,23 @@
     "groupTable": true,
     "groupSubtotals": true,
     "groupColors": true,
+    "autoSave": true,
+    "doEdits": {
+      "1390007021": {
+        "doStartDate": "29-Sep-2026"
+      },
+      "1390007058": {
+        "doStartDate": "29-Sep-2026"
+      },
+      "1390007071": {
+        "doStartDate": "29-Sep-2026"
+      }
+    },
+    "doEditStyle": {
+      "mode": "fill",
+      "font": "Blue",
+      "fill": "Yellow"
+    },
     "parties": [
       {
         "code": "1000000039",
