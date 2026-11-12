@@ -420,6 +420,12 @@
     "groupColors": true,
     "autoSave": true,
     "doEdits": {
+      "1310005481": {
+        "doEndDate": "24-Sep-2026"
+      },
+      "1350001338": {
+        "doEndDate": "24-Sep-2026"
+      },
       "1390007021": {
         "doStartDate": "29-Sep-2026"
       },
@@ -430,6 +436,8 @@
         "doStartDate": "29-Sep-2026"
       }
     },
+    "dbHidden": [],
+    "dbColsInTab": true,
     "doEditStyle": {
       "mode": "fill",
       "font": "Blue",
