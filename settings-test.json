@@ -189,6 +189,16 @@
     ],
     "dbPageSize": 1000,
     "dbPageAll": true,
+    "dbStat": {
+      "col": "doNum",
+      "show": [
+        "sum",
+        "avg",
+        "count",
+        "min",
+        "max"
+      ]
+    },
     "show": {
       "r1": {
         "on": {
@@ -441,6 +451,13 @@
       "daysLeft"
     ],
     "dbColsInTab": true,
+    "dbTab": {
+      "edited": true,
+      "edit": false,
+      "remove": false,
+      "smart": true,
+      "stat": true
+    },
     "doEditStyle": {
       "mode": "fill",
       "font": "Blue",
@@ -818,16 +835,6 @@
         "r2": false,
         "grp": "g1"
       }
-    ],
-    "dbStat": {
-      "col": "doNum",
-      "show": [
-        "sum",
-        "avg",
-        "count",
-        "min",
-        "max"
-      ]
-    }
+    ]
   }
 }
