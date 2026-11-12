@@ -189,16 +189,6 @@
     ],
     "dbPageSize": 1000,
     "dbPageAll": true,
-    "dbStat": {
-      "col": "asking",
-      "show": [
-        "sum",
-        "avg",
-        "count",
-        "min",
-        "max"
-      ]
-    },
     "show": {
       "r1": {
         "on": {
@@ -453,11 +443,16 @@
     ],
     "dbColsInTab": true,
     "dbTab": {
-      "edited": true,
+      "edited": false,
       "edit": false,
       "remove": false,
-      "smart": true,
-      "stat": true
+      "smart": true
+    },
+    "top": {
+      "mode": "compact",
+      "scroll": "back",
+      "warn": true,
+      "fade": true
     },
     "doEditStyle": {
       "mode": "fill",
