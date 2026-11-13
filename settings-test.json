@@ -288,19 +288,19 @@
     "exportReports": [
       {
         "id": 1,
-        "show": true
+        "show": false
       },
       {
         "id": 2,
-        "show": true
+        "show": false
       },
       {
         "id": 3,
-        "show": false
+        "show": true
       },
       {
         "id": 4,
-        "show": false
+        "show": true
       }
     ],
     "pdfMode": "render",
