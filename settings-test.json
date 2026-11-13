@@ -832,6 +832,7 @@
         "r2": false,
         "grp": "g1"
       }
-    ]
+    ],
+    "dbSub": true
   }
 }
