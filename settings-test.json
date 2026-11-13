@@ -292,15 +292,15 @@
       },
       {
         "id": 2,
-        "show": false
+        "show": true
       },
       {
         "id": 3,
-        "show": true
+        "show": false
       },
       {
         "id": 4,
-        "show": true
+        "show": false
       }
     ],
     "pdfMode": "render",
