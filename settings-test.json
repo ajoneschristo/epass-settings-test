@@ -832,7 +832,7 @@
         "grp": "g1"
       }
     ],
-    "dbSub": false,
+    "dbSub": true,
     "dbSubCfg": {
       "by": "partyName",
       "fn": "sum",
