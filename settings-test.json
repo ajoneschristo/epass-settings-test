@@ -189,6 +189,7 @@
     ],
     "dbPageSize": 1000,
     "dbPageAll": true,
+    "dbSub": false,
     "show": {
       "r1": {
         "on": {
@@ -296,11 +297,11 @@
       },
       {
         "id": 3,
-        "show": false
+        "show": true
       },
       {
         "id": 4,
-        "show": false
+        "show": true
       }
     ],
     "pdfMode": "render",
@@ -446,7 +447,34 @@
       "edited": false,
       "edit": false,
       "remove": false,
-      "smart": true
+      "smart": true,
+      "subOpts": true,
+      "order": true
+    },
+    "dbOrder": [
+      "doNum",
+      "doDate",
+      "doQty",
+      "partyCode",
+      "partyName",
+      "sector",
+      "collieryCode",
+      "collieryName",
+      "grade",
+      "size",
+      "doStartDate",
+      "doEndDate",
+      "status",
+      "lifted",
+      "balance",
+      "lapsed",
+      "daysLeft",
+      "asking"
+    ],
+    "dbSubCfg": {
+      "by": "partyName",
+      "fn": "sum",
+      "dec": false
     },
     "top": {
       "mode": "compact",
@@ -454,6 +482,7 @@
       "warn": true,
       "fade": false
     },
+    "btnWords": false,
     "doEditStyle": {
       "mode": "fill",
       "font": "Blue",
@@ -831,12 +860,6 @@
         "r2": false,
         "grp": "g1"
       }
-    ],
-    "dbSub": false,
-    "dbSubCfg": {
-      "by": "partyName",
-      "fn": "sum",
-      "dec": false
-    }
+    ]
   }
 }
