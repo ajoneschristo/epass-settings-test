@@ -189,7 +189,7 @@
     ],
     "dbPageSize": 1000,
     "dbPageAll": true,
-    "dbSub": true,
+    "dbSub": false,
     "show": {
       "r1": {
         "on": {
