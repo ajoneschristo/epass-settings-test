@@ -736,9 +736,10 @@
       {
         "code": "2000000756",
         "codes": [
-          "2000000756"
+          "2000000756",
+          "2000005457"
         ],
-        "name": "SKS POWER GENERATION",
+        "name": "SARDA ENERGY & MINERALS LIMITED",
         "power": true,
         "r1": true,
         "r2": false,
@@ -814,17 +815,6 @@
         "r1": true,
         "r2": false,
         "grp": "g2"
-      },
-      {
-        "code": "2000005457",
-        "codes": [
-          "2000005457"
-        ],
-        "name": "SARDA ENERGY & MINERALS LIMITED",
-        "power": true,
-        "r1": true,
-        "r2": false,
-        "grp": "g1"
       },
       {
         "code": "2000005473",
